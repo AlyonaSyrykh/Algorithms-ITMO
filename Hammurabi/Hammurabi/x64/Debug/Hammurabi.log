@@ -1,0 +1,6 @@
+﻿  Hammurabi.cpp
+D:\маги\Алгоритмы\Hammurabi\Hammurabi\Hammurabi.cpp(139,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\маги\Алгоритмы\Hammurabi\Hammurabi\Hammurabi.cpp(153,23): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\маги\Алгоритмы\Hammurabi\Hammurabi\Hammurabi.cpp(172,56): warning C4244: -=: преобразование "double" в "int", возможна потеря данных
+D:\маги\Алгоритмы\Hammurabi\Hammurabi\Hammurabi.cpp(176,31): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  Hammurabi.vcxproj -> D:\маги\Алгоритмы\Hammurabi\x64\Debug\Hammurabi.exe

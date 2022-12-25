@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Executable>D:\маги\Алгоритмы\DynamicArray\x64\Debug\TestArray.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="TestCaseName.TestName" Duration="1" />
+    <TestDuration Test="TestInsert.TestInsertIntRoot" Duration="1" />
+    <TestDuration Test="TestInsert.TestInsertDoubleRoot" Duration="1" />
+    <TestDuration Test="TestInsert.TestInsertCharRoot" Duration="1" />
+    <TestDuration Test="TestInsert.TestInsertIntMiddle" Duration="1" />
+    <TestDuration Test="TestInsert.TestInsertDoubleMiddle" Duration="1" />
+    <TestDuration Test="TestInsert.TestInsertCharMiddle" Duration="1" />
+    <TestDuration Test="TestInsert.TestInsertStringRoot" Duration="1" />
+    <TestDuration Test="TestInsert.TestInsertStringMiddle" Duration="0" />
+    <TestDuration Test="TestInsertIndex.TestInsertIntRootIndex" Duration="1" />
+    <TestDuration Test="TestInsertIndex.TestInsertDoubleRootIndex" Duration="1" />
+    <TestDuration Test="TestInsertIndex.TestInsertCharRootIndex" Duration="1" />
+    <TestDuration Test="TestSizeGet.TestSizeGetInitialize" Duration="1" />
+    <TestDuration Test="TestSizeGet.TestSizeGetInsert" Duration="1" />
+    <TestDuration Test="TestSizeGet.TestSizeGetRemove" Duration="1" />
+    <TestDuration Test="TestDelete.TestDeleteIntRoot" Duration="1" />
+    <TestDuration Test="TestDelete.TestDeleteDoubleRoot" Duration="1" />
+    <TestDuration Test="TestDelete.TestDeleteCharRoot" Duration="1" />
+    <TestDuration Test="TestDelete.TestDeleteIntMiddle" Duration="1" />
+    <TestDuration Test="TestDelete.TestDeleteDoubleMiddle" Duration="1" />
+    <TestDuration Test="TestDelete.TestDeleteCharMiddle" Duration="1" />
+    <TestDuration Test="TestDelete.TestDeleteFull" Duration="1" />
+    <TestDuration Test="TestIterator.TestIteratorIncrement" Duration="1" />
+    <TestDuration Test="TestIterator.TestReverseIteratorIncrement" Duration="1" />
+    <TestDuration Test="IntArrayTest.CopyConstructor" Duration="1" />
+    <TestDuration Test="CopyTest.CopyConstructor" Duration="1" />
+    <TestDuration Test="CopyTest.MoveConstructor" Duration="1" />
+    <TestDuration Test="CopyTest.CopyFields" Duration="1" />
+    <TestDuration Test="CopyTest.CopyElements" Duration="1" />
+    <TestDuration Test="STRINGTEST.StringInitialization" Duration="1" />
+    <TestDuration Test="StringTest.StringInitialization" Duration="1" />
+    <TestDuration Test="StringTest.StringInitializationDefault" Duration="1" />
+    <TestDuration Test="StringTestInsert.InsertString" Duration="0" />
+    <TestDuration Test="TestInsert.InsertString" Duration="1" />
+    <TestDuration Test="TestDelete.TestDeleteString" Duration="1" />
+    <TestDuration Test="CopyTest.CopyOperator" Duration="1" />
+    <TestDuration Test="CopyTest.MoveOperator" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>

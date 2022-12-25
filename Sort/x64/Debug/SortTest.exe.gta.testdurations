@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Executable>D:\маги\Алгоритмы\Sort\x64\Debug\SortTest.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="TestCaseName.TestName" Duration="1" />
+    <TestDuration Test="TestInsertion.TestArray" Duration="1" />
+    <TestDuration Test="TestInsertion.TestVector" Duration="1" />
+    <TestDuration Test="TestQuicksort.TestArray" Duration="1" />
+    <TestDuration Test="TestSort.TestArray" Duration="1" />
+    <TestDuration Test="TestInsertion.TestArrayReverse" Duration="1" />
+    <TestDuration Test="TestQuicksort.TestArrayReverse" Duration="1" />
+    <TestDuration Test="TestSort.TestArrayReverse" Duration="16" />
+    <TestDuration Test="TestSort.TestVectorReverse" Duration="1" />
+    <TestDuration Test="TestQuickSort.TestVectorReverse" Duration="5" />
+    <TestDuration Test="TestQuickSort.TestArrayReverse" Duration="2" />
+    <TestDuration Test="TestInsertion.TestVectorReverse" Duration="1" />
+    <TestDuration Test="TestSort.TestVectorRandom" Duration="21" />
+    <TestDuration Test="TestSort.TestArrayRandom" Duration="1" />
+    <TestDuration Test="TestSort.TestVectorHighDown" Duration="1" />
+    <TestDuration Test="TestSort.TestArrayHighDown" Duration="1" />
+    <TestDuration Test="TestSort.TestCharHighDown" Duration="1" />
+    <TestDuration Test="TestSort.TestChar" Duration="1" />
+    <TestDuration Test="TestSort.TestString" Duration="1" />
+    <TestDuration Test="TestHighSort.TestArrayHighDown" Duration="1" />
+    <TestDuration Test="TestSort.TestVector" Duration="1" />
+    <TestDuration Test="TestSort.TestVectorOne" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>

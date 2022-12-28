@@ -1,0 +1,5 @@
+﻿  MemoryManager.cpp
+D:\маги\Алгоритмы\MemoryManager\MemoryManager\CoalesceAllocation.cpp(71,41): warning C4018: >=: несоответствие типов со знаком и без знака
+D:\маги\Алгоритмы\MemoryManager\MemoryManager\CoalesceAllocation.cpp(74,42): warning C4018: >=: несоответствие типов со знаком и без знака
+D:\маги\Алгоритмы\MemoryManager\MemoryManager\MemoryAllocator.cpp(63,10): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+  MemoryManager.vcxproj -> D:\маги\Алгоритмы\MemoryManager\x64\Debug\MemoryManager.exe
